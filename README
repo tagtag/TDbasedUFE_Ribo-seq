@@ -1,2 +1,4 @@
 This is sample R script used in the paper entitled "Novel 4D tensor decomposition-based approach integrating tri-omics profiling data can identify functionally relevant gene clusters" 
 
+Some data files need to be downloaded prior to execution of sample.R. Where to download files is in paper.
+MOFA+.R and mixOmics.R are R code to execute these SOTA using the data in this study
